@@ -16,9 +16,9 @@
       · GIT
 
 - 📧 Don't hesitate to contact me:
-
-      javhvac25@outlook.com
+      javhvac25@outlook.com 
       
+- 💼 Or through my LinkedIn
       https://linkedin.com/valhuejose/
 <!--
 **JoseVal25/JoseVal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
