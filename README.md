@@ -1,5 +1,25 @@
 ### Hi there 👋 My name is Jose Valencia Huerta
 
+- 💻 I'm a Full stack web developer more inclined to Frontend developing.
+
+- 🌱 I’m currently learning NextJs using Typescript and also getting into mobile app developing.
+
+- 🏅 My goal is to become a Senior Software Developer and to work remotely. 
+
+- 🤖 Technologies I am focusing on:
+ 
+      · Javascript
+      · React.js
+      · Node.js
+      · MongoDB
+      · Mongoose
+      · GIT
+
+- 📧 Don't hesitate to contact me:
+
+      javhvac25@outlook.com
+      
+      https://linkedin.com/valhuejose/
 <!--
 **JoseVal25/JoseVal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
